@@ -10,8 +10,6 @@
   <ItemGroup>
     <Folder Include="D\Violacao\" />
     <Folder Include="D\Solucao\" />
-    <Folder Include="I\Solucao\" />
-    <Folder Include="I\Violacao\" />
   </ItemGroup>
 
 </Project>
