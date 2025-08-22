@@ -7,9 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="D\Violacao\" />
-    <Folder Include="D\Solucao\" />
-  </ItemGroup>
-
 </Project>
