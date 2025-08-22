@@ -12,8 +12,6 @@
     <Folder Include="D\Solucao\" />
     <Folder Include="I\Solucao\" />
     <Folder Include="I\Violacao\" />
-    <Folder Include="L\Solucao\" />
-    <Folder Include="L\Violacao\" />
   </ItemGroup>
 
 </Project>
